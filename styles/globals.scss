@@ -2506,8 +2506,52 @@ header {
       }
     }
   }
+  .projects {
+    .contetnt {
+      padding-left: 0;
+    }
+  }
+  .single_card {
+    img {
+      padding-top: 0px;
+    }
+  }
+  .middle_quote {
+    padding-bottom: 50px;
+  }
+  .running_container {
+    padding: 100px 0px 100px 0px;
+  }
+  .for_work {
+    padding-top: 150px;
+  }
+  .single_card {
+    padding-top: 50px;
+  }
 }
 @media screen and (max-width: $mediumS) {
+  .projects {
+    .contetnt {
+      padding-left: 0;
+    }
+  }
+  .single_card {
+    img {
+      padding-top: 0px;
+    }
+  }
+  .middle_quote {
+    padding-bottom: 50px;
+  }
+  .running_container {
+    padding: 100px 0px 100px 0px;
+  }
+  .for_work {
+    padding-top: 150px;
+  }
+  .single_card {
+    padding-top: 50px;
+  }
   .ads {
     .header {
       padding-top: 80px;
