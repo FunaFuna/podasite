@@ -1,0 +1,11 @@
+{
+    "id":"4",
+    "type":"brandings",
+    "header":{
+        "headerText":"Брендинг мульти автосервиса в Вроцлаве",
+        "smallText":"Реклама в Google Adwords, Facebook, Instagram для ION Solar",
+        "img":"../img/ion10.png",
+        "imgMob":"../img/brandings_main_mob.png",
+        "button":"Смотреть проекты"
+    }
+}

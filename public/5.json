@@ -1,0 +1,11 @@
+{
+    "id":"5",
+    "type":"webpages",
+    "header":{
+        "headerText":"1111Высокоэффективные солнечные станции для каждого",
+        "smallText":"Разработка сайта для компании 'ION Solar'",
+        "img":"../img/ion1.png",
+        "imgMob":"../img/ion_mob1.png",
+        "button":"Хочу так же"
+    }
+}

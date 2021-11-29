@@ -1,0 +1,44 @@
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)
+  font-family: "MullerBlack";
+  // адрес шрифта и тип
+  // src: url("../fonts/MullerRegular.ttf") format("truetype");
+  src: url("/public/fonts/MullerRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+.sideMenu {
+  display: flex;
+  flex-direction: column;
+  width: 1230px;
+  height: 100%;
+  background-color: black;
+  a {
+    color: white;
+    font-size: 24px;
+    padding-bottom: 20px;
+  }
+  .header-part {
+    display: flex;
+    flex-direction: row;
+  }
+  .links-container {
+    padding-top: 224px;
+    padding-left: 140px;
+    display: flex;
+    flex-direction: column;
+    #menu {
+      a {
+        font-size: 54px;
+      }
+    }
+    .links-row {
+      display: flex;
+      flex-direction: column;
+      .links-row-header {
+        padding-bottom: 25px;
+      }
+    }
+  }
+}

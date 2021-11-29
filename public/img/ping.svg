@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.549" height="65.896" viewBox="0 0 51.549 65.896">
+  <g id="ping" transform="translate(0 10.469)">
+    <g id="Group_1" data-name="Group 1" transform="translate(20.487 26.626)">
+      <path id="Path_1" data-name="Path 1" d="M250.894,521.886c5.281-7.738,25.092-19.52,25.691-18.7a8.714,8.714,0,0,1,1.347,3.241,8.211,8.211,0,0,1,.112,4.475c-.822,2.5-3.323,3.757-4.8,4.5-2.881,1.449-3.955.678-5.363,2.235a11.568,11.568,0,0,1-2.458,2.682,7.409,7.409,0,0,1-1.788.894l-.347,1.839h-4.938l-1.207,8.894L250,529.931Z" transform="translate(-250 -503.148)"/>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="23.799" cy="23.799" r="23.799" transform="translate(3.95)"/>
+    <path id="Path_2" data-name="Path 2" d="M185.961,384.207a27.687,27.687,0,0,0,0,55.374Z" transform="translate(-158.323 -384.161)"/>
+    <text id="P" transform="translate(12.442 41.531)" fill="#fff" font-size="48" font-family="SegoeUI, Segoe UI" letter-spacing="-0.075em"><tspan x="0" y="0">P</tspan></text>
+  </g>
+</svg>

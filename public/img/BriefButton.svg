@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <g id="BriefButton" transform="translate(-1404.5 -17322)">
+    <g id="Ellipse_316" data-name="Ellipse 316" transform="translate(1404.5 17322)" fill="none" stroke="#fff" stroke-width="5">
+      <circle cx="200" cy="200" r="200" stroke="none"/>
+      <circle cx="200" cy="200" r="197.5" fill="none"/>
+    </g>
+    <g id="Ellipse_317" data-name="Ellipse 317" transform="translate(1429.5 17347)" fill="none" stroke="#fff" stroke-width="5">
+      <circle cx="175" cy="175" r="175" stroke="none"/>
+      <circle cx="175" cy="175" r="172.5" fill="none"/>
+    </g>
+    <text id="Заполнить_бриф" data-name="Заполнить
+бриф" fill="none" stroke="#fff" transform="translate(1604.5 17510.5)" stroke-width="2" font-size="48" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.03em"><tspan x="-129.979" y="0">Заполнить</tspan><tspan x="-65.535" y="48">бриф</tspan></text>
+  </g>
+</svg>

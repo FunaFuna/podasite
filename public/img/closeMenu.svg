@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120.167" height="35" viewBox="0 0 120.167 35">
+  <g id="closeMenu" transform="translate(-1719 -66)">
+    <text id="Меню" transform="translate(1719 94)" fill="#fff" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Меню</tspan></text>
+    <g id="closeMenu-2" data-name="closeMenu">
+      <rect id="Rectangle_316" data-name="Rectangle 316" width="31" height="2" transform="translate(1817.247 76.332) rotate(45)" fill="#fff"/>
+      <rect id="Rectangle_317" data-name="Rectangle 317" width="31" height="2" transform="translate(1815.833 98.254) rotate(-45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

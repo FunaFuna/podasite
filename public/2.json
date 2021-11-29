@@ -1,0 +1,11 @@
+{
+    "id":"2",
+    "type":"advertisements",
+    "header":{
+        "headerText":"Pеклама по монтажу высокоэффективных солнечных станций",
+        "smallText":"Google Adwords, Facebook Ads, E-mail marketing",
+        "img":"../img/ads_img.png",
+        "imgMob":"../img/ads_main_mob.png",
+        "button":"Хочу так же"
+    }
+}

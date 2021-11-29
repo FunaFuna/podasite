@@ -1,0 +1,11 @@
+{
+    "id":"3",
+    "type":"design",
+    "header":{
+        "headerText":"Брендинг мульти автосервиса в Вроцлаве",
+        "smallText":"Разработка сайта для компании 'ION Solar'",
+        "img":"../img/ion10.png",
+        "imgMob":"../img/brandings_main_mob.png",
+        "button":"Смотреть проекты"
+    }
+}

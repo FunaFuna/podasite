@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145.474" height="84.38" viewBox="0 0 145.474 84.38">
+  <g id="closeMenuFollow" transform="translate(-17270 20011.379)">
+    <rect id="Rectangle_105" data-name="Rectangle 105" width="145.474" height="80.569" rx="40.285" transform="translate(17270 -20007.568)" fill="#fff"/>
+    <g id="Group_120" data-name="Group 120" transform="translate(17303.955 -19968.178)">
+      <path id="Path_1" data-name="Path 1" d="M251.068,525.534c6.309-9.245,29.977-23.321,30.693-22.338a10.413,10.413,0,0,1,1.609,3.872,9.809,9.809,0,0,1,.134,5.347c-.982,2.986-3.97,4.488-5.738,5.377-3.442,1.731-4.725.81-6.407,2.67-.88.973-1.314,2.092-2.937,3.2a8.851,8.851,0,0,1-2.136,1.068l-.414,2.2h-5.9l-1.442,10.626-8.53-2.41Z" transform="translate(-250 -503.148)"/>
+    </g>
+    <circle id="Ellipse_171" data-name="Ellipse 171" cx="28.433" cy="28.433" r="28.433" transform="translate(17284.199 -19999.986)"/>
+    <path id="Path_113" data-name="Path 113" d="M191.342,384.207a33.077,33.077,0,0,0,0,66.154Z" transform="translate(17121.156 -20384.139)"/>
+    <text id="P" transform="translate(17293.396 -19951.379)" fill="#fff" font-size="56" font-family="SegoeUI, Segoe UI" letter-spacing="-0.075em"><tspan x="0" y="0">P</tspan></text>
+    <rect id="Rectangle_318" data-name="Rectangle 318" width="31" height="2" transform="translate(17364.246 -19979.668) rotate(45)"/>
+    <rect id="Rectangle_319" data-name="Rectangle 319" width="31" height="2" transform="translate(17362.832 -19957.746) rotate(-45)"/>
+  </g>
+</svg>
