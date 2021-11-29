@@ -1,5 +1,5 @@
 import { useRouter } from "next/dist/client/router";
-import Project from "../../compoments/project";
+import Project from "../compoments/project";
 
 export default function ProjectDynamic({ project }) {
   const router = useRouter();
